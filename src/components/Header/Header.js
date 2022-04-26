@@ -27,7 +27,7 @@ const Header = () => {
   }
 
   return (
-    <div className="header">
+    <header className="header">
       <img src={logo} alt="Логотип" className="header__logo"/>
       {
         !mobileScreenSize ? 
@@ -40,7 +40,7 @@ const Header = () => {
           <a className="header__link" href="mailto:sales@logo.ru"><img src={mail} alt="Логотип" className="header__link-image"/></a>
         </div>
       }
-    </div>
+    </header>
   );
 }
 

@@ -1,0 +1,54 @@
+$font: 'Manrope', 'Arial', sans-serif;
+
+.footer {
+  min-height: 321px;
+  background: #092433;
+}
+
+.footer__logo {
+  width: 197.71px;
+  height: 83.85px;
+}
+
+.footer__copyright {
+  margin: 0;
+  font-family: $font;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 0.8);
+  opacity: 0.5;
+}
+
+.footer__links {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.footer__link {
+  margin: 0;
+  text-decoration: none;
+  font-family: $font;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+  transition: opacity 0.1s linear 0.1s;
+  &:hover {
+    opacity: 0.6;
+  }
+}
+
+
+
+@media screen and (max-width: 320px) {
+  .footer {
+    min-height: 325px;
+  }
+  
+}
