@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logo-test-task/static/css/main.be94411b.css",
-    "main.js": "/logo-test-task/static/js/main.9f2b4e46.js",
+    "main.js": "/logo-test-task/static/js/main.f7ae8eea.js",
     "static/js/787.d99eeb3d.chunk.js": "/logo-test-task/static/js/787.d99eeb3d.chunk.js",
     "static/media/info-image.png": "/logo-test-task/static/media/info-image.a2edad5f55670ba6bdf2.png",
     "static/media/Manrope-SemiBold.ttf": "/logo-test-task/static/media/Manrope-SemiBold.33d2f89e0616126658af.ttf",
@@ -18,11 +18,11 @@
     "static/media/telegram.svg": "/logo-test-task/static/media/telegram.1bf6975ee1639e9df6bdbcb789c2338b.svg",
     "static/media/h.svg": "/logo-test-task/static/media/h.e3436297b8b3a2750a61395d98a11227.svg",
     "main.be94411b.css.map": "/logo-test-task/static/css/main.be94411b.css.map",
-    "main.9f2b4e46.js.map": "/logo-test-task/static/js/main.9f2b4e46.js.map",
+    "main.f7ae8eea.js.map": "/logo-test-task/static/js/main.f7ae8eea.js.map",
     "787.d99eeb3d.chunk.js.map": "/logo-test-task/static/js/787.d99eeb3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be94411b.css",
-    "static/js/main.9f2b4e46.js"
+    "static/js/main.f7ae8eea.js"
   ]
 }
