@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/logo-test-task/static/css/main.f6d394f7.css",
+    "main.js": "/logo-test-task/static/js/main.9f2b4e46.js",
+    "static/js/787.d99eeb3d.chunk.js": "/logo-test-task/static/js/787.d99eeb3d.chunk.js",
+    "static/media/info-image.png": "/logo-test-task/static/media/info-image.a2edad5f55670ba6bdf2.png",
+    "static/media/Manrope-SemiBold.ttf": "/logo-test-task/static/media/Manrope-SemiBold.33d2f89e0616126658af.ttf",
+    "static/media/Manrope-Medium.ttf": "/logo-test-task/static/media/Manrope-Medium.c1117ffc8855673d0172.ttf",
+    "static/media/Manrope-Regular.ttf": "/logo-test-task/static/media/Manrope-Regular.b1d694f660569a9a9ee6.ttf",
+    "static/media/footer-logo.svg": "/logo-test-task/static/media/footer-logo.c8acdda2a7e3faa718797765c1159a20.svg",
+    "static/media/header-logo.svg": "/logo-test-task/static/media/header-logo.0791f85f154aea49c93f8e2ed21630ae.svg",
+    "static/media/author.svg": "/logo-test-task/static/media/author.6b6d846a4bfbe1abfa9dc720da2645c5.svg",
+    "static/media/vk.svg": "/logo-test-task/static/media/vk.bdb2c4c9a91109fc4982c570bafe1561.svg",
+    "static/media/twitter.svg": "/logo-test-task/static/media/twitter.5b04b82807bc1088a9401d9f72e921e4.svg",
+    "static/media/icon-mail.svg": "/logo-test-task/static/media/icon-mail.ef21acca70374c687490d9798d894cb2.svg",
+    "index.html": "/logo-test-task/index.html",
+    "static/media/icon-phone.svg": "/logo-test-task/static/media/icon-phone.b2e35997101addccbb03d9ccc40204ee.svg",
+    "static/media/telegram.svg": "/logo-test-task/static/media/telegram.1bf6975ee1639e9df6bdbcb789c2338b.svg",
+    "static/media/h.svg": "/logo-test-task/static/media/h.e3436297b8b3a2750a61395d98a11227.svg",
+    "main.f6d394f7.css.map": "/logo-test-task/static/css/main.f6d394f7.css.map",
+    "main.9f2b4e46.js.map": "/logo-test-task/static/js/main.9f2b4e46.js.map",
+    "787.d99eeb3d.chunk.js.map": "/logo-test-task/static/js/787.d99eeb3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6d394f7.css",
+    "static/js/main.9f2b4e46.js"
+  ]
+}
