@@ -15,9 +15,7 @@ const Form = ({ postsFilter }) => {
   }
 
   useEffect(() => {
-    if (data.author || data.date1 || data.date2) {
-      postsFilter(data)
-    }
+    postsFilter(data)
   }, [data])
 
   return (
