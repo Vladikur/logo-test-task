@@ -68,9 +68,11 @@
   }
   .form__inputs-date {
     width: 295px;
+    display: flex;
+    flex-wrap: nowrap;
   }
   .form__input-span {
-    margin: 0 5px 0 0;
+    margin: 0 0 0 0;
   }
     .form__input-date {
     margin: 0 0 0 5px;
