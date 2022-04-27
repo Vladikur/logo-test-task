@@ -1,0 +1,87 @@
+@mixin font {
+  font-family: 'Manrope', 'Arial', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: rgba(0, 0, 0, 0.65);
+}
+
+.form {
+  width: 925px;
+  margin: 76px auto 39px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.form__author-container {
+  padding: 9px 10px;
+  box-sizing: border-box;
+  margin: 0 20px 0 0;
+  border: 1px solid #E8E8E8;
+  box-sizing: border-box;
+  border-radius: 4px;
+  width: 295px;
+  height: 40px;
+}
+
+.form__input-author {
+  padding: 0;
+  width: 263px;
+  box-sizing: border-box;
+  border: none;
+  @include font;
+  &:focus {
+    outline: none;
+  }
+}
+
+.form__inputs-date {
+  width: 331px;
+  height: 40px;
+  padding: 10px;
+  border: 1px solid #E8E8E8;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.form__input-span {
+  margin: 0 10px 0 0;
+  @include font;
+}
+
+.form__input-date {
+  margin: 0 0 0 10px;
+  border: none;
+  @include font;
+  &::-webkit-inner-spin-button { display: none; }
+  &::-webkit-calendar-picker-indicator { display: none; }
+  &:focus {
+    outline: none;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  .form {
+    width: 610px;
+  }
+  .form__inputs-date {
+    width: 295px;
+  }
+  .form__input-span {
+    margin: 0 5px 0 0;
+  }
+    .form__input-date {
+    margin: 0 0 0 5px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .form {
+    width: 295px;
+    margin: 44px auto 32px auto;
+  }
+  .form__author-container {
+    margin: 0 0 12px 0;
+  }
+}
