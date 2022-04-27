@@ -19,10 +19,10 @@ const Footer = () => {
       </div>
       <nav>
         <ul className="footer__links">
-          <li><a href="foo" className="footer__link">Решения</a></li>
-          <li><a href="foo" className="footer__link">Оборудование</a></li>
-          <li><a href="foo" className="footer__link">О компании</a></li>
-          <li><a href="foo" className="footer__link footer__link_child_last">Блог</a></li>
+          <li><a href="#" className="footer__link">Решения</a></li>
+          <li><a href="#" className="footer__link">Оборудование</a></li>
+          <li><a href="#" className="footer__link">О компании</a></li>
+          <li><a href="#" className="footer__link footer__link_child_last">Блог</a></li>
        </ul>
       </nav>
       <p className="footer__copyright">&copy; ООО «Лого», 2008—2022</p>
