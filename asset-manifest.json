@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/logo-test-task/static/css/main.80667fe7.css",
+    "main.css": "/logo-test-task/static/css/main.d03669a3.css",
     "main.js": "/logo-test-task/static/js/main.cc918720.js",
     "static/js/787.d99eeb3d.chunk.js": "/logo-test-task/static/js/787.d99eeb3d.chunk.js",
     "static/media/info-image.png": "/logo-test-task/static/media/info-image.a2edad5f55670ba6bdf2.png",
@@ -17,12 +17,12 @@
     "static/media/icon-phone.svg": "/logo-test-task/static/media/icon-phone.b2e35997101addccbb03d9ccc40204ee.svg",
     "static/media/telegram.svg": "/logo-test-task/static/media/telegram.1bf6975ee1639e9df6bdbcb789c2338b.svg",
     "static/media/h.svg": "/logo-test-task/static/media/h.e3436297b8b3a2750a61395d98a11227.svg",
-    "main.80667fe7.css.map": "/logo-test-task/static/css/main.80667fe7.css.map",
+    "main.d03669a3.css.map": "/logo-test-task/static/css/main.d03669a3.css.map",
     "main.cc918720.js.map": "/logo-test-task/static/js/main.cc918720.js.map",
     "787.d99eeb3d.chunk.js.map": "/logo-test-task/static/js/787.d99eeb3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80667fe7.css",
+    "static/css/main.d03669a3.css",
     "static/js/main.cc918720.js"
   ]
 }
