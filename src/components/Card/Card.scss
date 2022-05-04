@@ -3,8 +3,12 @@ $font: 'Manrope', 'Arial', sans-serif;
 .card {
   width: 295px;
   height: 258px;
+  margin: 20px 20px 0 0;
   border: 1px solid #E8E8E8;
   box-sizing: border-box;
+  &:nth-child(3n) {
+    margin: 20px 0 0 0;
+  }
 }
 
 .card__hrader {
@@ -76,4 +80,22 @@ $font: 'Manrope', 'Arial', sans-serif;
   font-size: 12px;
   line-height: 20px;
   color: #595959;
+}
+
+@media screen and (max-width: 980px) {
+  .card:nth-child(3n) {
+    margin: 20px 20px 0 0;
+  }
+  .card:nth-child(2n) {
+    margin: 20px 0 0 0;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .card {
+    margin: 20px 0 0 0;
+    &:nth-child(3n) {
+      margin: 20px 0 0 0;
+    }
+  }
 }
