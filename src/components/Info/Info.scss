@@ -6,6 +6,7 @@
 }
 
 .info {
+  -ms-margin-top: 88px;
   position: relative;
 }
 
@@ -33,6 +34,9 @@
 }
 
 @media screen and (max-width: 768px) {
+  .info {
+    -ms-margin-top: 56px;
+  }
   .info__text-container {
     position: absolute;
     bottom: 35px;
