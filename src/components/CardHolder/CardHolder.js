@@ -5,7 +5,7 @@ import Card from '../Card/Card';
 const CardHolder = ({cards}) => {
 
   return (
-    <section className="card-holder">
+    <main className="card-holder">
       {cards.map((post, item) => (
         <Card
           key={item}
@@ -15,7 +15,7 @@ const CardHolder = ({cards}) => {
           date={post.publishedAt}
         />
       ))}
-    </section>
+    </main>
   );
 }
 
