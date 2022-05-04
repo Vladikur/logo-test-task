@@ -7,10 +7,8 @@
   column-gap: 20px;
   row-gap: 20px;
   display: -ms-grid;
-  -ms-grid-template-columns: repeat(3, 1fr);
-  -ms-grid-template-rows: repeat(1, 1fr);
-  -ms-column-gap: 20px;
-  -ms-row-gap: 20px;
+  -ms-grid-template-columns: 32% 20px 32% 20px 32%;
+  -ms-grid-template-rows: auto 20px auto 20px auto;
   padding: 0;
   list-style-type: none;
   flex-wrap: wrap;
@@ -20,7 +18,7 @@
   .card-holder {
     width: 610px;
     grid-template-columns: repeat(2, 1fr);
-    -ms-grid-template-columns: repeat(2, 1fr);
+    -ms-grid-template-columns: 50% 20px 50%;
   }
 }
 
@@ -28,6 +26,6 @@
   .card-holder {
     width: 295px;
     grid-template-columns: repeat(1, 1fr);
-    -ms-grid-template-columns: repeat(1, 1fr);
+    -ms-grid-template-columns: 100%;
   }
 }
