@@ -1,3 +1,9 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
 /*!
  * Flickity v2.3.0
  * Touch, responsive, flickable carousels
